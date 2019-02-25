@@ -1,0 +1,19 @@
+{
+  "name": "parse-shadow",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexis Tyler <xo@wvvw.me> (https://wvvw.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.6",
+    "flatten": "^1.0.2",
+    "fs-readfile-promise": "^3.0.1",
+    "line-read": "^1.0.1",
+    "line-replace": "^1.0.2"
+  }
+}
